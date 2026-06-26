@@ -3,7 +3,6 @@
 - 👀 I'm interested in Programming and Music
 - 🌱 I'm currently exploring new technologies and frameworks
 - 👨‍💻 I studied for a Bachelor of Science in Engineering (Software Technology) at Aarhus University (2023–2026)
-- ⚽ I'm currently working @ Vokalo ApS, developing sports tech
 - 💞️ I'm looking to collaborate on...
 - 📫 Mail: mvmads@gmail.com
 
